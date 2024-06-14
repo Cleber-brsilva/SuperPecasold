@@ -13,7 +13,7 @@ public class CarroController {
     @RequestMapping(value = "/", method = RequestMethod.GET)
 
     public String buscaCarro() {
-        return "teste";
+        return "teste2";
     }
 }
 
